@@ -79,5 +79,5 @@ dev
 5.Open in browser
 http://localhost:3000
 
-6. Notes
+#Note
 This project demonstrates how retrieval (Tavily) and generation (Groq) can be combined with simple verification to improve the reliability of AI responses.
