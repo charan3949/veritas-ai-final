@@ -1,4 +1,4 @@
-# VeritasAI – Evidence-Aware AI Assistant
+# VeritasAI (Evidence-Aware AI Assistant)
 
 # Overview
 VeritasAI is a small project I built to explore how AI responses can be made more reliable instead of just fluent. Many large language models generate confident answers even when they are not fully correct. The goal of this project is to reduce that problem by grounding responses in real information and adding a simple verification step.
