@@ -56,22 +56,28 @@ I designed and implemented the complete flow of this project:
 
 
 # Setup & Run
+
 1.Clone the repository
 ```bash
 git clone https://github.com/charan3949/veritas-ai-final.git
 cd veritas-ai-final
+
 2.Install dependencies
  npm
 install
+
 3.Create environment file
  Create a file named .env.local in the root folder and add:
 GROQ_API_KEY
 TAVILY_API_KEY
+
 4.Run the project
 npm
 run
 dev
+
 5.Open in browser
 http://localhost:3000
+
 6. Notes
 This project demonstrates how retrieval (Tavily) and generation (Groq) can be combined with simple verification to improve the reliability of AI responses.
